@@ -53,8 +53,9 @@ img/hw-11.6-2.1.jpg
 ![Скриншот 4](https://github.com/donz-tt/hw-11-6_replication_1/blob/main/img/hw-11.6-2.4.jpg)
 
 Внесение данных на машине master:
-![Скриншот 5](https://github.com/donz-tt/hw-11-6_replication_1/blob/main/img/hw-11.6-2.5jpg)
+![Скриншот 5](https://github.com/donz-tt/hw-11-6_replication_1/blob/main/img/hw-11.6-2.5.jpg)
 
 Внесение синхронизации данных на машине slave:
-![Скриншот 6](https://github.com/donz-tt/hw-11-6_replication_1/blob/main/img/hw-11.6-2.6jpg)
+![Скриншот 6](https://github.com/donz-tt/hw-11-6_replication_1/blob/main/img/hw-11.6-2.6.jpg)
+
 ---
