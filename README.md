@@ -40,7 +40,7 @@ read-only = 1
 ```
 
 Проверка статуса репликации на машине master:
-![Скриншот 1](https://github.com/donz-tt/hw-11.6_replication_1/blob/main/img/hw-11.6-2.1.jpg)
+![Скриншот 1](https://github.com/donz-tt/hw-11-6_replication_1/blob/main/img/hw-11.6-2.1.jpg)
 
 img/hw-11.6-2.1.jpg
 Проверка статуса репликации на машине slave:
@@ -56,5 +56,5 @@ img/hw-11.6-2.1.jpg
 ![Скриншот 5](https://github.com/donz-tt/hw-11-6_replication_1/blob/main/img/hw-11.6-2.5jpg)
 
 Внесение синхронизации данных на машине slave:
-![Скриншот 5](https://github.com/donz-tt/hw-11-6_replication_1/blob/main/img/hw-11.6-2.6jpg)
+![Скриншот 6](https://github.com/donz-tt/hw-11-6_replication_1/blob/main/img/hw-11.6-2.6jpg)
 ---
